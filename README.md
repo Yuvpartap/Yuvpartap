@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Yuvpartap Singh 
+- 👋 Hola, I’m Yuvpartap Singh
+- 💻 I'm currently working on Sign Language Detection System 
+- 🌱 I’m currently learning Machine Learning and Deep Neural Networks  
 - 🎓 I’m currently pursuing my Bachelors in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Design and Analysis of Algorithms  
-<!---
-Yuvpartap/Yuvpartap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuvpartap&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/Yuvpartap/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvpartap&layout=compact&theme=radical)](https://github.com/Yuvpartap/github-readme-stats)
