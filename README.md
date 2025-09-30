@@ -58,21 +58,10 @@ Experiments in adapting models to handle visual domain shifts efficiently.
 ## 📊 GitHub Insights
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvpartap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  <!-- Top Languages -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvpartap&layout=compact&theme=tokyonight&hide_border=true" height="170"/> -->
-</p>
-
-<p align="center">
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvpartap&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
 </p>
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=yuvpartap&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
 
 ---
 
@@ -81,9 +70,6 @@ Experiments in adapting models to handle visual domain shifts efficiently.
 <p align="center">
   <a href="https://www.linkedin.com/in/yuvpartap-singh/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/yuvpartapsingh">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a href="https://github.com/yuvpartap">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
