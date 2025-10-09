@@ -3,16 +3,6 @@
   <em>AI/ML Engineer · Applied Research · Computer Vision & Deep Learning</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuvpartap&label=Profile%20views&color=blueviolet&style=flat" alt="profile views"/>
-  <a href="https://github.com/yuvpartap?tab=followers">
-    <img src="https://img.shields.io/github/followers/yuvpartap?label=Followers&style=social" alt="GitHub followers"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yuvpartap-singh/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -52,16 +42,6 @@ Research & implementation of scalable PyTorch-based CV feature extraction models
 Experiments in adapting models to handle visual domain shifts efficiently.  
 
 *(More projects pinned below 👇)*  
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvpartap&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
-</p>
-
 
 ---
 
